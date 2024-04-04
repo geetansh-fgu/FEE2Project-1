@@ -33,4 +33,4 @@ USAGE
 
 AUTHORS
 -----
-Ojas Gupta(2210990627), Divya Bhoria(2210990293) and Geetansh Sood(2210990323)
+Ojas Gupta(2210990627), Divya Bhoria(2210990293), Ketan Uppal(2210990507) and Geetansh Sood(2210990323)
